@@ -1,4 +1,4 @@
-package me.dio.santander_dev_week.repository;
+package me.dio.santander_dev_week.domain.model.repository;
 
 
 import me.dio.santander_dev_week.domain.model.User;
