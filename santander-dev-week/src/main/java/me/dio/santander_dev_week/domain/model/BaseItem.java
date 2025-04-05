@@ -8,6 +8,8 @@ import jakarta.persistence.MappedSuperclass;
 @MappedSuperclass
 public abstract class BaseItem {
 
+    //
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
